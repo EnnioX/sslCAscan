@@ -11,8 +11,7 @@ linux_amd64，可选择编译版或源码版
 源码版：python3 sslCAscan txt文件路径
 编译版：./sslCAscan txt文件路径
 ```
-示例：
 ```
-./sslCAscan /home/url.txt
+示例：./sslCAscan /home/url.txt
 ```
 3. 运行结束后在执行路径下保存扫描结果为result.xlsx
