@@ -7,10 +7,10 @@ linux_amd64，可选择编译版或源码版
 ## 使用方式
 1. 把目标url写入txt文件中，每行一个url
 2. 运行
-
+```
 源码版：python3 sslCAscan txt文件路径
 编译版：./sslCAscan txt文件路径
-
+```
 示例：
 ```
 ./sslCAscan /home/url.txt
